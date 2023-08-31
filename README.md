@@ -1,4 +1,4 @@
-# HR-Dashboard-MySQL-PowerBI!
+# HR-Dashboard-MySQL-PowerBI
 
 ![Screenshot 2023-08-31 112556](https://github.com/mansiingale/HR-Dashboard-MySQL-PowerBI/assets/102963536/756b3706-f7ad-42a2-9b69-19475bedf2ae)
 
